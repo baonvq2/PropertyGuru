@@ -374,3 +374,4 @@ SELECT
   SUM(checkout_success) AS checkout_success
 FROM
   sub_total
+  ;
